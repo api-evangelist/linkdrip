@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LinkDrip is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://linkdrip.com/
+LinkDrip provides a no‑code link engagement platform that lets users create, customize, and track short links with advanced analytics, QR codes, and call‑to‑action overlays. The service supports custom domains, real‑time performance dashboards, and easy integration via a pixel or API, helping marketers and businesses maximize link effectiveness without writing code.
+
+**Areas:** Link Management · No-Code · Marketing · Analytics · URL Shortener
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.linkdrip.com/)
+- [Documentation](https://docs.linkdrip.com/)
+- [Getting started](https://docs.linkdrip.com/get-started)
+- [API reference](https://docs.linkdrip.com/apis/reference)
+- [Pricing](https://www.linkdrip.com/pricing)
+- [Terms of service](https://www.linkdrip.com/terms-and-conditions)
+- [Privacy policy](https://www.linkdrip.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/linkdrip/](https://apis.io/providers/linkdrip/).
